@@ -5,3 +5,4 @@ Detections:
 Crypto Clipper: 25 Dollars Lifetime
 Detections: 
 ![4dBoqvdUQr1Z](https://user-images.githubusercontent.com/103219372/169676453-de089869-4338-4ab4-9646-37c16e85e833.png)
+-------------------------------------------------------------------------------------------

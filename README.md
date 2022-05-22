@@ -8,3 +8,6 @@ Crypto Clipper: 25 Dollars / Detections:
 Custom Ransomware: 50 Dollars / Detections: 
 ![image](https://user-images.githubusercontent.com/103219372/169705476-a96af249-6422-49cc-9117-458f7f29995f.png)
 -------------------------------------------------------------------------------------------
+Custom Stealer: 15 Dollars / Detections: 
+
+-------------------------------------------------------------------------------------------

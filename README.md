@@ -11,3 +11,7 @@ Custom Ransomware: 50 Dollars / Detections:
 Friday Obfuscator: 50 Dollars / Before: ![image](https://user-images.githubusercontent.com/103219372/169721578-310316fa-63c3-4adf-b682-14b5bd98356c.png)
 / After: ![image](https://user-images.githubusercontent.com/103219372/169722036-a9c95f88-0552-4caf-b701-82ed23435fd8.png)
 -------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+For more information contact me on my discord "Friday#7338"
+-------------------------------------------------------------------------------------------
